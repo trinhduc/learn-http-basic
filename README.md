@@ -14,7 +14,7 @@ There are some of the things beginners want to learn quickly :
 
 ### reference links :
 
-[1]: https://github.com/spray/spray/issues/676
+[1](https://github.com/spray/spray/issues/676)
 
 ### Notes : 
 - The content is extracted from many sources that I aggregate.
