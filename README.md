@@ -1,6 +1,6 @@
 # learn-http-basic
 
-There are some of the things beginners want to learn quickly about that are not covered:
+There are some of the things beginners want to learn quickly :
 
  
 - How to issue a basic GET request and access response body, status and headers
